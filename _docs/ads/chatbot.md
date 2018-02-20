@@ -21,7 +21,7 @@ order: 4
 Блок JSON API передаёт данные заявки на наш сервер.
 
 TYPE **POST**  
-URL **http://bot.nickvorobiov.com/chatfuel/chatfuel-order.php?fb_id={{messenger user id}}**  
+URL **http://bot.nickvorobiov.com/chatfuel/chatfuel-order.php?fb_id={% raw %}{{messenger user id}}{% endraw %}**  
 USER ATTRIBUTES {% raw %}{{offer}} {{trello-list-id}} {{first name}} {{last name}}{{phone}}{% endraw %}
 
 Помимо **phone** можно передать другие атрибуты, если их предварительно спросить у пользователя.
