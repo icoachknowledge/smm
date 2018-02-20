@@ -4,6 +4,6 @@ category: Настройка рекламы
 order: 4
 ---
 
-Настройка РК для сплит тестирования лидмагнитов [https://youtu.be/7RDwjdDv7Ew](https://youtu.be/7RDwjdDv7Ew)
+Настройка РК [https://youtu.be/7RDwjdDv7Ew](https://youtu.be/7RDwjdDv7Ew)
 
-Настройка чатбота на сплит-тест лидмагнитов [https://youtu.be/b0Keg6eMuuk](https://youtu.be/b0Keg6eMuuk)
+Настройка чатбота [https://youtu.be/nGBZjFXJK6w](https://youtu.be/nGBZjFXJK6w)
